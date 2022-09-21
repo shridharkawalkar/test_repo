@@ -1,2 +1,4 @@
 # test_repo
-git learning is easy
+
+git is awesome
+
