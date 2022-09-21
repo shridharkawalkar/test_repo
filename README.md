@@ -1,4 +1,4 @@
 # test_repo
 
-git is awesome one
+git is awesome too
 
